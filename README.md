@@ -1,8 +1,6 @@
 # 物院公众号后台维护用
 
 ## 问题反馈
-俗话说得好，没有没有 bug 的程序。
-
 在反馈问题时，最好附上
 - 截图
 - 设备类型，如
@@ -23,3 +21,9 @@
 会使用 Issue 的就不需要多说了。
 不会使用的同学也不用担心，我们也建议进去看看，
 如果问题已有反馈，就无需重复反馈
+
+---
+
+> Nobody actually creates perfect code the first time around, except me. But there's only one of me.
+>
+> ― Tech Talk: Linus Torvalds on git, Google, 15 August 2007
