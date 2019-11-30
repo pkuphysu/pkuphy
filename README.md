@@ -12,7 +12,7 @@
     - Chrome
 ### 邮件反馈
 使用邮件向系统管理员反馈：
-- [rev@pku.edu.cn](mailto:rev@pku.edu.cn?subject=预约系统问题反馈&content=系统管理员，你好！%0A我在使用预约系统过程中遇到以下问题：%0A%0A我使用的设备及浏览器为：%0A截图见附件。)
+- [rev@pku.edu.cn](mailto:rev@pku.edu.cn?subject=预约系统问题反馈&body=系统管理员，你好！%0A我在使用预约系统过程中遇到以下问题：%0A%0A我使用的设备及浏览器为：%0A截图见附件。)
 - [allanchain@pku.edu.cn](mailto:allanchain@pku.edu.cn)
 
 ### GitHub Issues (preferred)
